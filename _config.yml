@@ -17,8 +17,8 @@ plugins_dir: "-jekyll-feed -jekyll-seo-tag -jekyll-sitemap -jekyll-gist -jekyll-
 
 exclude: 
  -gemfile
- gemifile.lock
- node_modules
+ -gemifile.lock
+ -node_modules
  -vendor
 
 paginate: 5 
