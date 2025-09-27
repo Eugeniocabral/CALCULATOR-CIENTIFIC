@@ -18,7 +18,7 @@ kramdown:
      imput: GFM
 
 #plugins
-plugins: -jekyll-feed -jekyll-seo-tag -jekyll-sitemap -jekyll-gist -jekyll-mentions
+plugins: "-jekyll-feed -jekyll-seo-tag -jekyll-sitemap -jekyll-gist -jekyll-mentions."
 
  #opciones de contruccion 
 exclude: 
