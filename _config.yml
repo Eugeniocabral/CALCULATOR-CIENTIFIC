@@ -1,11 +1,11 @@
-title: "CALCULATOR CIENTIFIC"
+title: Mi Sitio Personal
 DESCRIPTION: "Es un sitio web creado con GitHub pages y jekyll."
 url: "https//eugeniocabral.github.io"
 
 author: 
 name: "Eugenio Cabral"
 email: "kalefcabral@gmail.com"
-cgithub: "htpps//github.com/eugeniocabral"
+github: "htpps//github.com/eugeniocabral"
 
 theme: jekyll-theme-cayman
 
