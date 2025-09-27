@@ -1,32 +1,25 @@
-#INFORMACION DEL SITIO
 title: "CALCULATOR CIENTIFIC"
 DESCRIPTION: "Es un sitio web creado con GitHub pages y jekyll."
 url: "https//eugeniocabral.github.io"
 
-#autor
 author: 
 name: "Eugenio Cabral"
 email: "kalefcabral@gmail.com"
 cgithub: "htpps//github.com/eugeniocabral"
 
-#tema
 theme: jekyll-theme-cayman
 
-#configuracion del markdown
 markdow: kramdown
 kramdown: 
      imput: GFM
 
-#plugins
 plugins_dir: "-jekyll-feed -jekyll-seo-tag -jekyll-sitemap -jekyll-gist -jekyll-mentions.".
 
- #opciones de contruccion 
 exclude: 
  -gemfile
  gemifile.lock
  node_modules
  -vendor
 
- #paginacion
 paginate: 5 
 paginate_path: "/page:num/"
