@@ -1,8 +1,19 @@
 title: CALCULATOR-CIENTIFIC
 description: Scientific Calculator GitHub Pages
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-paginate
+plugins: 
+ jekyll-feed
+ jekyll-seo-tag
+ jekyll-sitemap
+ jekyll-redirect-from
+ jemoji
+ jekyll-paginate
+ jekyll-coffeescript
+ jekyll-default-layout
+ jekyll-gist
+ jekyll-github-metadata
+ jekyll-optional-front-matter
+ jekyll-readme-index
+ jekyll-titles-from-headings
+ jekyll-relative-links
+ jekyll-commonmark-ghpages
