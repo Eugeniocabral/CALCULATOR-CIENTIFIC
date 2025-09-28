@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CALCULATOR CIENTIFIC
+title: scientific Calculator
 ---
 
 # ¡Hola!

@@ -7,16 +7,9 @@ author:
   email: "kalefcabral@gmail.com"
   github: "https://github.com/eugeniocabral"
 
-theme: jekyll-theme-cayman
-
-markdown: kramdown
-kramdown:
-  input: GFM
-
 plugins_dir:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-mentions
-
