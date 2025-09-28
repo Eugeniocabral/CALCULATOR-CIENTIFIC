@@ -1,6 +1,6 @@
-title: "Calculator Cientific"
-description: "Es un sitio web creado con GitHub Pages y Jekyll."
-url: "https://eugeniocabral.github.io"
+title: Scientific Calculator
+theme: jekyll-theme-cayman
+description: A GitHub Pages site for the scientific calculator project.
 
 author:
   name: "Eugenio Cabral"
@@ -10,7 +10,6 @@ author:
 theme: jekyll-theme-cayman
 
 markdown: kramdown
-
 kramdown:
   input: GFM
 
