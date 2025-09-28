@@ -3,13 +3,10 @@ theme: jekyll-theme-cayman
 description: A GitHub Pages site for the scientific calculator project.
 
 author:
-  name: "Eugenio Cabral"
-  email: "kalefcabral@gmail.com"
-  github: "https://github.com/eugeniocabral"
+name: Eugenio cabral
+email: kalefcabral@gmail.com
 
-plugins_dir:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-mentions
+puglins:
+    jekyll-seo-tag
+    jekyll-feed
+    jekyll-sitemap
